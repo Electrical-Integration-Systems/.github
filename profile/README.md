@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  📍Romania &nbsp;|&nbsp; <a href="https://eis-online.ro/">🌐eis-online.ro</a> &nbsp;|&nbsp; <a href="mailto:office@eis-online.ro">✉️office@eis-online.ro</a>
+  📍Romania &nbsp;|&nbsp; <a href="https://eis-online.ro/">🌐eis-online.ro</a> &nbsp;|&nbsp; <a href="mailto:bms@eis-online.ro">✉️bms@eis-online.ro</a>
 </p>
 
 ## What We Do
